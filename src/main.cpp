@@ -1,3 +1,4 @@
+#include "Arduino.h"
 #include "Due.h"
 #include "MifareClassic.h"
 #include "MifareUltralight.h"
